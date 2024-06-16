@@ -1,7 +1,7 @@
 
 # Landing-Page ⭐️
 
-Create a Landing Page to showcase knowledge of flexbox
+I created a Landing Page to showcase knowledge of flexbox
 
 ## Tech Used 💻
 
